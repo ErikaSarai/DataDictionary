@@ -21,23 +21,23 @@
 ## callentry_datetime_end - llamada_entrante_fecha_hora_final
 * Fecha y hora del fin de la llamada en formato YYYY-MM-DD HH:MM:SS
 
-## callentry_duration_sec - llamada_entrante_duración_seg 
-* Duración de las llamadas en segundos enteros.
+## callentry_duration_sec - llamada_entrante_duracion_sec
+* Duración de las llamadas entrantes en segundos enteros.
 
 ## callentry_status - llamada_entrante_estado
-* Estado de la llamada: abandonada, terminada, monitoreo, fin-monitoreo, en-cola.
+* Estado de la llamada entrante: abandonada, terminada, monitoreo, fin-monitoreo, en-cola.
 
 ## callentry_transfer - llamada_entrante_transferencia
-* Transferencia de la llamada
+* Transferencia de la llamada entrante
 
 ## callentry_datetime_entry_queue - llamada_entrante_fecha_hora_entrada_cola
-* Fecha y hora del fin de entrada en la cola.
+* Fecha y hora del fin de la llamada entrante en la entrada de la cola.
 
-## callentry_duration_sec_wait - llamada_entrante_duracion_seg_espera
+## callentry_duration_sec_wait - llamada_entrante_duracion_sec_espera
 * Duracion en segundos enteros de cada espera de llamada entrante.
 
 ## callentry_uniqueid - llamada_entrante_unico_id
-* Numero único de identificación de cada llamada entrante
+* Numero único de identificación de cada llamada entrante.
 
 ## callentry_campaign_id - llamada_entrante_campaña_id	
 * Número secuencial generado automáticamente por el sistema cada vez que se inserta una campaña de llamada entrante.
